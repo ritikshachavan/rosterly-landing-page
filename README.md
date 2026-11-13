@@ -49,8 +49,8 @@ rosterly-landing-page/
 ![Desktop view](desktop.png)
 
 ### Mobile
-![Mobile view](mobile.png)
-![Mobile menu](mobile-menu.png)
+![Mobile view](mobile.jpeg)
+![Mobile menu](mobile-menu.jpeg)
 ## Notes
 
 All content, names, prices and contact details are placeholders.
