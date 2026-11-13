@@ -45,9 +45,12 @@ rosterly-landing-page/
 ```
 
 ## Screenshots
+### Desktop
+![Desktop view](desktop.png)
 
-Add your desktop and mobile screenshots to a `screenshots` folder and link them here.
-
+### Mobile
+![Mobile view](mobile.png)
+![Mobile menu](mobile-menu.png)
 ## Notes
 
 All content, names, prices and contact details are placeholders.
